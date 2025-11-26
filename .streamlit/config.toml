@@ -1,0 +1,6 @@
+[theme]
+primaryColor="#FF6B6B"               # 포인트 색 (버튼, 강조)
+backgroundColor="#FFF7F8"            # 전체 배경
+secondaryBackgroundColor="#FFECEC"   # 박스, 입력창 배경
+textColor="#4A1C2F"                  # 글자 색
+font="sans serif"
